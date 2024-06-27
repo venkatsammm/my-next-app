@@ -27,6 +27,7 @@ export default {
         title: 'Small Description',
       },
       {
+        
         name: 'content',
         type: 'array',
         title: 'Content',
